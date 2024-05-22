@@ -92,3 +92,6 @@ M8080 S3
 
 M8500
 
+more info on the gcode params and network here: [https://www.improwis.com/projects/sw_PhotonControl/](https://web.archive.org/web/20231203204955/https://www.improwis.com/projects/sw_PhotonControl/)
+
+
